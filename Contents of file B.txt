@@ -1,1 +1,2 @@
 Contents of file B
+hi my name is
